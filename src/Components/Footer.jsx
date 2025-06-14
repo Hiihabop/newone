@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="bg-black text-white pt-5 pb-6 mt-5">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+        <div className="">
           {/* Brand */}
           <div>
             <h1 className="text-2xl font-bold text-white mb-2">DriedFruitCo</h1>
